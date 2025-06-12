@@ -1,4 +1,4 @@
-# Bitcoin-Data-Analysis
+# Data-Analysis
 
 ## This is a basic data analysis project using Python, Pandas, and Matplotlib to explore 5 years of historical Bitcoin (BTC-USD) price data. The goal is to get comfortable working with time series data, perform exploratory data analysis, and visualize trends and risk via daily returns.
 
